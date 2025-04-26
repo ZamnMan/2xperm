@@ -8,8 +8,8 @@ _G.HatCollide = false
 _G.CustomHats = true -- Enable or disable custom rig feature (basically old oxide when false)
 _G.CH = {
     Torso = {
-        Name= "Accessory (TorsoAccessory)",
-        TextureId = "85260593368362",
+        Name= "Accessory (Huge Void Backpack)",
+        TextureId = "17269636558",
         Orientation= CFrame.Angles(math.rad(0),math.rad(0),math.rad(0))
     },
 
